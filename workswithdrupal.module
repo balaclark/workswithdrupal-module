@@ -1,0 +1,9 @@
+<?php
+
+function workswithdrupal_drush_command() {
+  $items = array();
+  $items['module-compatibility'] = array(
+    'description' => 'Show your module compatibility with other Drupal versions',
+  );
+  return $items;
+}

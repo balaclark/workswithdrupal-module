@@ -1,0 +1,4 @@
+name = Works With Drupal
+description = Show how compatible you current modules are with other Drupal versions.
+package = Development
+core = "7.x"

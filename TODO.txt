@@ -1,0 +1,4 @@
+
+ * Create verbose drush view show details for each module
+ * Allow API endpoint to be configurable
+ * Create HTML views in the admin area
